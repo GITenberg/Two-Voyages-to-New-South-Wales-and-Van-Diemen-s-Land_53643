@@ -1,0 +1,26 @@
+_repo: Two-Voyages-to-New-South-Wales-and-Van-Diemen-s-Land_53643
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reid, Thomas
+    birthdate: 1791
+    deathdate: 1825
+    gutenberg_agent_id: '48743'
+    url: http://www.gutenberg.org/2009/agents/48743
+description: ''
+gutenberg_issued: '2016-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53643'
+  lccn: '10032202'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Exiles -- Australia -- New South Wales'
+- !lcsh 'Exiles -- Australia -- Tasmania'
+- !lcc 'HV'
+- GITenberg
+title: Two Voyages to New South Wales and Van Diemen's Land
+url: http://www.gutenberg.org/ebooks/53643
